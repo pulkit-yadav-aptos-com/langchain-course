@@ -1,0 +1,15 @@
+[project]
+name = "langchain-course"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=25.11.0",
+    "isort>=6.1.0",
+    "langchain>=0.3.28",
+    "langchain-ollama>=0.3.10",
+    "langchain-tavily>=0.2.11",
+    "python-dotenv>=1.2.1",
+    "tavily>=1.1.0",
+]
